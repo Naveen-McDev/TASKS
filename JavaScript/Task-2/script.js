@@ -13,3 +13,12 @@ let output = str.split("").join("\n")
 
 
 console.log(output);
+
+/* Output:
+N
+A
+T
+U
+R
+E
+*/
